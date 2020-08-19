@@ -1,0 +1,19 @@
+{
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "description": "discord_bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "housen",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "config": "^3.3.1",
+    "discord.js": "^12.3.1",
+    "express-validator": "^6.6.1",
+    "mysql": "^2.18.1"
+  }
+}
